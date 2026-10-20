@@ -1,0 +1,53 @@
+{
+  "Software Developer": [
+    "Python",
+    "Java",
+    "Git",
+    "SQL",
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "REST API",
+    "Testing",
+    "Linux"
+  ],
+  "Python Developer": [
+    "Python",
+    "Flask",
+    "Django",
+    "SQL",
+    "Git",
+    "REST API",
+    "Testing",
+    "Pandas",
+    "SQLite"
+  ],
+  "QA Engineer": [
+    "Testing",
+    "Manual Testing",
+    "Automation",
+    "Selenium",
+    "Python",
+    "Jira",
+    "SQL",
+    "API Testing"
+  ],
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "TypeScript",
+    "Git",
+    "Responsive Design"
+  ],
+  "Data Analyst": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Excel",
+    "Power BI",
+    "Statistics",
+    "Data Visualization"
+  ]
+}
