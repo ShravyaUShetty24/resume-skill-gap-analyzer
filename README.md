@@ -1,5 +1,7 @@
 # Resume Skill Gap Analyzer
 
+**Portfolio:** Shravya U Shetty
+
 A Python + Streamlit portfolio app to compare skills in a resume with job-role requirements or a supplied job description. Supports plain text, PDF and DOCX resumes, matched/missing skills, role comparisons, visual summaries, and downloadable reports.
 
 ## Portfolio publication note
